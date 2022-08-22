@@ -18,7 +18,7 @@ body {
   .card {
     width: 250px;
     height: 250px;
-    transition: transform 1s ease-in;
+    transition: transform 600ms ease-out;
     transform-style: preserve-3d;
     cursor: pointer;
     position: relative;
